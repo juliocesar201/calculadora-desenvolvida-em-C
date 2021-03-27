@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1614887109 source:c:\users\julio\onedrive\documentos\curso calculadora\calcula 01\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+
